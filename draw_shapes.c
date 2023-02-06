@@ -26,3 +26,20 @@ void print_triangle(int leftCol, int size)
   }
 }
 
+void print_arrow(int leftCol, int size)
+{
+  for (int i = 0; i < leftCol; i++)
+    {
+        for (int j = 0; j < leftCol - i; j++)
+            printf(" ");
+        for (int j = 0; j < 2 * i + 1; j++)
+            printf("*");
+        printf("\n");
+    }
+    for (int i = 0; i < leftCol; i++)
+    {
+        for (int j = 0; j < leftCol; j++)
+            printf(" ");
+        printf("*\n");
+    }
+}

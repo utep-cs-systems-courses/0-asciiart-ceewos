@@ -1,0 +1,86 @@
+Restored session: Wed Feb  1 18:50:55 MST 2023
+carloscisneros@Carloss-Air-4 0-asciiart-ceewos % pwd
+pwd
+/Users/carloscisneros/0-asciiart-ceewos
+carloscisneros@Carloss-Air-4 0-asciiart-ceewos % ./asciidraw 
+./asciidraw 
+Welcome!
+Select which shape you want to print (Triangle = t, Square = s, Chars = c) or 'q' to quit
+> t
+t
+You selected triangle:
+            *
+           ***
+          *****
+         *******
+        *********
+       ***********
+      *************
+     ***************
+Select which shape you want to print (Triangle = t, Square = s, Chars = c) or 'q' to quit
+> s
+s
+You selected square:
+     *****
+     *****
+     *****
+     *****
+     *****
+Select which shape you want to print (Triangle = t, Square = s, Chars = c) or 'q' to quit
+> c
+c
+You selected chars:
+  ***           
+  ******        
+     ******     
+     ** ******  
+     **    *****
+     **    *****
+     ** ******  
+     ******     
+  ******        
+  ***           
+                
+  **************
+  **************
+  **    **    **
+  **    **    **
+  **    **    **
+  **    **    **
+  **    ***  ***
+  ***  ******** 
+   ****** ****  
+    ****        
+                
+      ******    
+    **********  
+   ***      *** 
+  ***        ***
+  **          **
+  **          **
+  **          **
+  ***        ***
+   ***      *** 
+    **      **  
+                
+Select which shape you want to print (Triangle = t, Square = s, Chars = c) or 'q' to quit
+> q
+q
+Bye!
+carloscisneros@Carloss-Air-4 0-asciiart-ceewos % e
+e
+zsh: command not found: e
+carloscisneros@Carloss-Air-4 0-asciiart-ceewos % ./asciidraw 
+./asciidraw 
+Welcome!
+Select which shape you want to print (Triangle = t, Square = s, Chars = c) or 'q' to quit
+> q
+q
+Bye!
+carloscisneros@Carloss-Air-4 0-asciiart-ceewos % 
+s % 
+zsh: command not found: s
+carloscisneros@Carloss-Air-4 0-asciiart-ceewos % s
+s
+zsh: command not found: s
+carloscisneros@Carloss-Air-4 0-asciiart-ceewos 
